@@ -1,0 +1,9 @@
+python3 -m venv venv_pynput
+
+source venv_pynput/bin/activate
+
+pip install pynput
+
+deactivate
+
+## type the above command in the terminal to make a virtual environment - also you can run the python file by typing these command
